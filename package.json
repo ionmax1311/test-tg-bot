@@ -9,10 +9,11 @@
     "node": "18.x"
   },
   "dependencies": {
-    "grammy": "*",
-    "chrono-node": "*",
     "better-sqlite3": "*",
-    "node-cron": "*",
-    "dotenv": "*"
+    "chrono-node": "*",
+    "dotenv": "*",
+    "express": "^5.2.1",
+    "grammy": "*",
+    "node-cron": "*"
   }
 }
